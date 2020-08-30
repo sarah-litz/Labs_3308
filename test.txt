@@ -1,0 +1,15 @@
+
+
+this is a test
+i
+
+
+
+:wq
+
+this is a test! :wq
+
+
+.wq
+
+
