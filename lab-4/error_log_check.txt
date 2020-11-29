@@ -1,0 +1,146 @@
+Oct 27 00:00:23 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 00:00:24 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 00:04:51 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 00:05:59 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 00:06:04 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 00:06:05 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 00:06:09 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 00:06:09 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 00:09:45 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 00:14:45 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 00:19:45 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 00:24:45 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 00:29:45 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 00:34:45 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 00:39:45 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 00:44:45 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 00:49:45 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 00:54:45 sarahlitz-VirtualBox systemd-resolved[436]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Oct 27 00:55:56 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 00:56:07 sarahlitz-VirtualBox systemd-resolved[436]: message repeated 3 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Oct 27 10:43:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 10:48:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 10:53:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 10:58:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 11:03:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 11:08:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 11:13:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 11:18:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 11:23:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 11:28:32 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 11:33:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 11:38:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 11:43:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 11:48:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 11:53:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 11:58:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 12:03:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 12:08:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 12:13:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 12:18:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 12:23:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 12:28:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 12:33:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 12:38:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 12:43:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 12:48:32 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 12:53:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 12:55:57 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 12:56:08 sarahlitz-VirtualBox systemd-resolved[436]: message repeated 3 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Oct 27 12:58:32 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 13:03:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 13:08:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 13:10:26 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 13:10:31 sarahlitz-VirtualBox systemd-resolved[436]: message repeated 3 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Oct 27 13:10:36 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 13:13:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 13:18:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 13:23:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 13:28:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 13:33:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 13:38:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 13:43:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 13:48:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 13:50:48 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 13:50:59 sarahlitz-VirtualBox systemd-resolved[436]: message repeated 3 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Oct 27 13:53:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 13:58:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 14:03:27 sarahlitz-VirtualBox systemd-resolved[436]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Oct 27 14:06:50 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 14:13:27 sarahlitz-VirtualBox systemd-resolved[436]: message repeated 16 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Oct 27 14:15:38 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 14:17:01 sarahlitz-VirtualBox systemd-resolved[436]: message repeated 9 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Oct 27 14:17:06 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 14:23:27 sarahlitz-VirtualBox systemd-resolved[436]: message repeated 5 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Oct 27 14:28:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 14:33:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 14:38:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 14:43:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 14:48:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 14:53:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 14:58:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 15:03:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 15:08:28 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 15:13:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 15:18:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 15:23:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 15:28:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 15:33:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 15:38:37 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 15:43:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 15:48:28 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 15:53:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 15:58:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 16:03:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 16:08:47 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 16:13:32 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 16:18:38 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 16:23:33 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 16:28:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 16:33:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 16:38:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 16:43:27 sarahlitz-VirtualBox systemd-resolved[436]: message repeated 4 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Oct 27 16:45:38 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 16:53:38 sarahlitz-VirtualBox systemd-resolved[436]: message repeated 19 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Oct 27 16:56:25 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 17:03:27 sarahlitz-VirtualBox systemd-resolved[436]: message repeated 14 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Oct 27 17:05:39 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 17:13:27 sarahlitz-VirtualBox systemd-resolved[436]: message repeated 10 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Oct 27 17:18:32 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 17:23:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 17:28:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 17:33:28 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 17:38:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 17:43:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 17:48:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 17:53:28 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 17:58:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 18:03:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 18:08:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 18:13:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 18:18:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 18:23:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 18:28:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 18:33:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 18:38:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 18:43:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Oct 27 18:48:27 sarahlitz-VirtualBox systemd-resolved[436]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 29 10:36:40 sarahlitz-VirtualBox kernel: [    1.129122] RAS: Correctable Errors collector initialized.
+Nov 29 10:36:40 sarahlitz-VirtualBox kernel: [    3.214177] EXT4-fs (sda5): re-mounted. Opts: errors=remount-ro
+Nov 29 10:36:40 sarahlitz-VirtualBox kernel: [    5.153725] [drm:vmw_host_log [vmwgfx]] *ERROR* Failed to send host log message.
+Nov 29 10:36:40 sarahlitz-VirtualBox kernel: [    5.155932] [drm:vmw_host_log [vmwgfx]] *ERROR* Failed to send host log message.
+Nov 29 10:36:40 sarahlitz-VirtualBox systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+Nov 29 10:36:40 sarahlitz-VirtualBox thermald[585]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Nov 29 10:36:40 sarahlitz-VirtualBox thermald[585]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Nov 29 10:36:40 sarahlitz-VirtualBox thermald[585]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Nov 29 10:36:42 sarahlitz-VirtualBox NetworkManager[548]: <warn>  [1606671402.3597] Error: failed to open /run/network/ifstate
+Nov 29 10:36:52 sarahlitz-VirtualBox systemd-resolved[505]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 29 10:36:53 sarahlitz-VirtualBox systemd-resolved[505]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 29 10:36:57 sarahlitz-VirtualBox /usr/lib/gdm3/gdm-x-session[934]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+Nov 29 10:37:05 sarahlitz-VirtualBox gnome-session-c[1226]: Error creating FIFO: File exists
+Nov 29 10:37:25 sarahlitz-VirtualBox gnome-shell[1260]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+Nov 29 10:37:26 sarahlitz-VirtualBox pulseaudio[920]: GetManagedObjects() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Nov 29 11:48:37 sarahlitz-VirtualBox gnome-shell[3929]: ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Nov 29 12:00:51 sarahlitz-VirtualBox systemd-resolved[505]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Nov 29 12:02:14 sarahlitz-VirtualBox gnome-shell[1260]: Error adding children to desktop: Not enough place at monitor 0
+Nov 29 12:05:25 sarahlitz-VirtualBox systemd-resolved[505]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
